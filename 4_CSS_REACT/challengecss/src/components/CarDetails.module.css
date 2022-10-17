@@ -1,0 +1,13 @@
+.car_details {
+    list-style: none;
+    background-color: gray;
+    padding: 5px;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: white;
+}
+
+ul {
+    margin: 5px;
+    padding: 0px 400px;
+}
